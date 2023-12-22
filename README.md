@@ -1,1 +1,1 @@
-# very-basic-resume
+https://avinash01-git.github.io/very-basic-resume/
